@@ -110,7 +110,7 @@
   margin-bottom: 60px;
 }
 
-#home .content h1::after{
+/* #home .content h1::after{
   content: "Darkcode";
   animation: textanim 10s linear infinite;
 }
@@ -125,7 +125,7 @@
   75%{
     content: "A Youtuber";
   }
-} */
+} */ */
 
 .sm a{
   color: #fff;
