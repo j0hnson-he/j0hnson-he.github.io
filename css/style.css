@@ -115,7 +115,7 @@
   animation: textanim 10s linear infinite;
 }
 
-@keyframes textanim{
+/* @keyframes textanim{
   25%{
     content: "A Developer";
   }
@@ -125,7 +125,7 @@
   75%{
     content: "A Youtuber";
   }
-}
+} */
 
 .sm a{
   color: #fff;
