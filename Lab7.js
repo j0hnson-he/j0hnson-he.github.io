@@ -16,7 +16,7 @@ var numFish;
 
 function setup()
 {
-   createCanvas(700,700);
+   createCanvas(width,height);
    numFish = 17;
    numPads = 7;
    for (var i=0; i <numFish; i++) {
