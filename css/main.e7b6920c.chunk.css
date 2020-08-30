@@ -1074,7 +1074,7 @@ code {
   font-weight: 600;
   line-height: 2vw;
   color: #fff;
-  background: rgba(97, 110, 104, 0.884);
+  background: rgba(87, 120, 133, 0.884);
   -webkit-transition: opacity 0.25s ease;
   transition: opacity 0.25s ease;
 }
@@ -1979,7 +1979,7 @@ code {
 
 .tag-container div {
   box-sizing: content-box;
-  border: 2px solid red;
+  border: 2px solid blue;
   border-radius: 5px;
   padding: 0.3rem;
   margin: 0;
